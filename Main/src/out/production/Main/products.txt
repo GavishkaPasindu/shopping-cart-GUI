@@ -1,0 +1,2 @@
+123,naseem,12,123.0,Electronics,qwe,11
+1234,mohomed,12,123.0,Clothing,M,red
